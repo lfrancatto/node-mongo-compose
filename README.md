@@ -1,10 +1,10 @@
 # node-mongo-compose
-Projeto Cadastro Simples com Docker
+Developing a simple app with NodeJS + MongoDB + Nginx and Docker Compose
 
-Exemplo utilizando compose com 3 serviços.
+Example using compose with three services.
 
 DB: mongo 3.4
 
 Backend: node 8.1
 
-Frontend: nginx 1.13
+Frontend: nginx 1.1
